@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ajal 👋
 
-<!--
-**Ajalsr/Ajalsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack software engineer in **Dubai** building ERP and business systems end to end — database schema and stored procedures, backend APIs, frontend, and deployment.
 
-Here are some ideas to get you started:
+- 🏢 Software Engineer at **Bin Salem Design**, building the company ERP on .NET, Angular and SQL Server
+- 🚀 Building **[Spifora](https://app.spifora.com)**, a multi-tenant ERP with Go (Gin), React and SQL Server
+- 🎓 Previously at **Accenture** ( React, C#, Pega) · Pega Certified System Architect
+- 💼 Open to full stack and .NET roles in the UAE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+**Backend:** C# / .NET · Go (Gin) · Java · Node.js
+**Frontend:** Angular · React · TypeScript
+**Data:** SQL Server · MySQL · MongoDB
+**DevOps:** Docker · Jenkins · Git · CI/CD · Vercel · Render
+
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/ajal-s-r-25951b1b4) · ajalsr989@gmail.com
